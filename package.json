@@ -38,5 +38,7 @@
   ],
   "dependencies": {
     "@scarf/scarf": "^1.1.1"
-  }
+  },
+  "repository": "achmadk/vite-plugin-react-remove-devtools",
+  "license": "MIT"
 }
