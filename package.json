@@ -1,6 +1,5 @@
 {
   "name": "@achmadk/vite-plugin-react-remove-devtools",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
   "module": "./dist/index.js",
