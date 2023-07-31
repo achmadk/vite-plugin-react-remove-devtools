@@ -1,3 +1,5 @@
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=796da9b2-0071-4bb5-bbd6-1ca2af112f05" />
+
 # :package: `@achmadk/vite-plugin-react-remove-devtools`
 
 ## Table of Contents
